@@ -12,3 +12,6 @@ brew install mpg321
 ```
 ##Installing gTTS
 navgate to folder then: `pip install gTTS`
+
+##source for gTTS can be found here
+https://github.com/pndurette/gTTS
