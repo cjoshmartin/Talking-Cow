@@ -1,0 +1,14 @@
+# Talking-Cow
+Using cowsay and Google's TTS API to make a talking cow in termenal. I built this project to see if I could make a talking cow. All was completed in less then a day.
+
+##Install Cowsay
+`npm install -g cowsay`
+
+##Installing mpg321
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+brew install mpg321
+
+```
+##Installing gTTS
+navgate to folder then: `pip install gTTS`
