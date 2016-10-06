@@ -1,6 +1,5 @@
 # Talking-Cow
-Using cowsay and Google's TTS API to make a talking cow in termenal. I built this project to see if I could make a talking cow. All was completed in less then a day.
-
+Using cowsay and Google's TTS API to make a talking cow in termenal. I built this project to see if I could make a talking cow. 
 ##Install Cowsay
 `brew install cowsay`
 
