@@ -3,14 +3,14 @@ Using cowsay and Google's TTS API to make a talking cow in termenal. I built thi
 ##Install Cowsay
 `brew install cowsay`
 
-##Installing mpg321
+## Installing mpg321
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
 brew install mpg321
 
 ```
-##Installing gTTS
+## Installing gTTS
 navgate to folder then: `pip install gTTS`
 
-##source for gTTS can be found here
+## source for gTTS can be found here
 https://github.com/pndurette/gTTS
